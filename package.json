@@ -1,0 +1,14 @@
+{
+  "name": "sanbercode_qa_tugas2",
+  "version": "1.0.0",
+  "description": "aplikasi belajar javascript sanbercode part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node input.js"
+  },
+  "author": "indarto",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
